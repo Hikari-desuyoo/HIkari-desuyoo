@@ -20,3 +20,10 @@ Aqui estão repositórios contendo código que eu pessoalmente considero bagunç
 Esses são os principais, mas se você fuçar mais meus repositórios, tem um monte de projeto pequeno, principalmente em python.
 
 ## ![brush](https://cdn4.iconfinder.com/data/icons/48-bubbles/48/17.Brush-32.png)Hobbies
+- Desenho(digital e tradicional)
+- Compôr música/estudar teoria musical
+- Cultura otaku
+- Touhou project
+- Touhou project de novo, merecendo 2 lugares nessa lista
+- (infelizmente) League of Legends e Valorant
+- E claro, programar!
