@@ -16,7 +16,7 @@ Aqui estão dois repositórios de projetos que concluí durante o TreinaDev:
 ### ![cross](https://cdn3.iconfinder.com/data/icons/materia-flat-halloween-free/24/039_003_tomb_halloween_grave_cross-16.png)Cemitério
 Aqui estão repositórios contendo código que eu pessoalmente considero bagunçado e não reflete muito meu nível de habilidade atual, mas funciona:
 - [PYTHON] [Gerador de Recibos](https://github.com/Hikari-desuyoo/Gerador-de-recibos) - Aplicação com interface que gera PDFs com recibos automaticamente
-- [PYTHON] [Bot de RPG](https://github.com/Hikari-desuyoo/discord-rpg) - Bot de Discord para gerenciar fichas de RPG(não foi uma boa ideia)
+- [PYTHON] [Bot de RPG](https://github.com/Hikari-desuyoo/discord-rpg) - Bot de Discord para gerenciar fichas de RPG(não foi uma boa ideia)\
 Esses são os principais, mas se você fuçar mais meus repositórios, tem um monte de projeto pequeno, principalmente em python.
 
 ## ![brush](https://cdn4.iconfinder.com/data/icons/48-bubbles/48/17.Brush-32.png)Hobbies
