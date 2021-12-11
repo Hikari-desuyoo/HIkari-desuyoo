@@ -1,8 +1,8 @@
 # Boas vindas!
-Esse é o perfil de Hikari Luz, uma programadora resendense!\
+Esse é o perfil de Hikari Luz, uma programadora de Resende - RJ!\
 [Procurando pelo meu currículo?](https://docs.google.com/presentation/d/1dyOUWe0du0mHcQZ3P3D9IBdBnJUlMm5ojJzcO5F-NvU)
 
-## Repositórios por categoria
+## ![coding](https://cdn2.iconfinder.com/data/icons/artificial-intelligence-52/48/bl_1642_Data_development_programming_coding_magnifier-32.png)Repositórios por categoria
 ### ![rails](https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/ruby-on-rails-16.png) Ruby on rails
 Aqui estão dois repositórios de projetos que concluí durante o TreinaDev:
 
@@ -18,3 +18,5 @@ Aqui estão repositórios contendo código que eu pessoalmente considero bagunç
 - [PYTHON] [Gerador de Recibos](https://github.com/Hikari-desuyoo/Gerador-de-recibos) - Aplicação com interface que gera PDFs com recibos automaticamente
 - [PYTHON] [Bot de RPG](https://github.com/Hikari-desuyoo/discord-rpg) - Bot de Discord para gerenciar fichas de RPG(não foi uma boa ideia)
 Esses são os principais, mas se você fuçar mais meus repositórios, tem um monte de projeto pequeno, principalmente em python.
+
+## ![brush](https://cdn4.iconfinder.com/data/icons/48-bubbles/48/17.Brush-32.png)Hobbies
