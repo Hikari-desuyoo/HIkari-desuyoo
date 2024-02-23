@@ -27,3 +27,7 @@ Esses são os principais, mas se você fuçar mais meus repositórios, tem um mo
 - Touhou project de novo, merecendo 2 lugares nessa lista
 - (infelizmente) League of Legends e Valorant
 - E claro, programar!
+
+
+![lpicanco's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hikari-desuyoo&count_private=true&show_icons=true&theme=nightowl)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hikari-desuyoo&count_private=true&langs_count=12&layout=compact&theme=nightowl&hide=Dockerfile,HTML,Jupyter+Notebook,CSS&exclude_repo=grails,stackoverflow-java-sdk,github-readme-stats,github-readme-stats-site,nostr-relay-registry,nostr-gateway,swagger-ui)
