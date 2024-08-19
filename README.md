@@ -4,7 +4,7 @@
 ![Static Badge](https://img.shields.io/badge/%F0%9F%92%AC-%F0%9F%87%A7%F0%9F%87%B7%20%F0%9F%87%BA%F0%9F%87%B8%20%F0%9F%87%AF%F0%9F%87%B5%20%F0%9F%87%AA%F0%9F%87%B8%20-a77dcb?style=plastic)
 
 ![lpicanco's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hikari-desuyoo&count_private=true&show_icons=true&theme=nightowl)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hikari-desuyoo&count_private=true&langs_count=8&layout=compact&theme=nightowl&hide=Dockerfile,HTML,Jupyter+Notebook,CSS&exclude_repo=grails,stackoverflow-java-sdk,github-readme-stats,github-readme-stats-site,nostr-relay-registry,nostr-gateway,swagger-ui)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hikari-desuyoo&count_private=true&langs_count=8&layout=compact&theme=nightowl&hide=Dockerfile,GLSL,HTML,Jupyter+Notebook,CSS&exclude_repo=grails,stackoverflow-java-sdk,github-readme-stats,github-readme-stats-site,nostr-relay-registry,nostr-gateway,swagger-ui)
 
 ---
 
